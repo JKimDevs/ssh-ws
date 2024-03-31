@@ -76,4 +76,4 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 ------------
 **Telegram**
 ------------
-[LIZSVR](https://t.me/liz_mine)
+[CyberGuardian](https://t.me/cyberguardianapp)
